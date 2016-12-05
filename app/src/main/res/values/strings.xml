@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="openweatherapi">92cbe9beef21ad8bda315aff15658b1b</string>
+
+    <string name="sunny">f00d</string>
+    <string name="nighttime">f02e</string>
+    <string name="thunderstorm">f010</string>
+    <string name="drizzle">f01c</string>
+    <string name="snow">f065</string>
+    <string name="rain">f009</string>
+    <string name="cloudy">f002</string>
+    <string name="nodata">Unable to catch the data</string>
+</resources>
